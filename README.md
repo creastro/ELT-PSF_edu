@@ -83,6 +83,8 @@ Users can also **save and reload aperture geometry presets**, making it possible
 
 # Description of GUI Elements
 
+![Graphical User Interface](GUI.png)
+
 The ELT-PSF[edu] interface is organized into:
 
 - **Three control areas**
@@ -206,5 +208,3 @@ These profiles allow quantitative comparison of:
 - Diffraction structure
 
 This makes it easier to analyze how **different telescope configurations affect optical performance**.
-
-![Graphical User Interface](GUI.png)
