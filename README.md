@@ -208,3 +208,10 @@ These profiles allow quantitative comparison of:
 - Diffraction structure
 
 This makes it easier to analyze how **different telescope configurations affect optical performance**.
+
+## Authors
+Andres Santiago Villares Guanga  
+Mai Nhu-Tin  
+Catalina Villegas Montoya  
+
+Université Côte d’Azur
